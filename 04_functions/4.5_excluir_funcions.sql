@@ -1,0 +1,1 @@
+drop function retorna_nome_funcionario;
